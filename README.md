@@ -19,6 +19,25 @@ Aplicação web básica desenvolvida com HTML, CSS e JavaScript..
 
 ---
 
+## 🧪 Projeto de Testes de API – ServeRest
+
+Este projeto tem como objetivo demonstrar conhecimentos em **testes manuais de API**, utilizando o **Postman** para validação dos endpoints da API pública ServeRest.
+
+### 🔧 Ferramentas utilizadas
+- Postman
+- GitHub
+- Testes manuais de API REST
+
+### 📌 Escopo dos testes
+- Usuários
+  - Cadastro (POST)
+  - Consulta (GET)
+  - Atualização (PUT)
+  - Remoção (DELETE)
+
+### 📁 Estrutura relacionada
+
+
 ## 🚧 Em desenvolvimento
 Novos projetos serão adicionados conforme minha evolução nos estudos, incluindo:
 - Casos de teste

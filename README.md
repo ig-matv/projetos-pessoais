@@ -36,8 +36,9 @@ Este projeto tem como objetivo demonstrar conhecimentos em **testes manuais de A
   - Remoção (DELETE)
 
 ### 📁 Estrutura relacionada
-
-
+- 👤 [usuarios.md](./test-cases/usuarios.md)
+    Casos de teste para o CRUD de usuários (POST, GET, PUT, DELETE)
+  
 ## 🚧 Em desenvolvimento
 Novos projetos serão adicionados conforme minha evolução nos estudos, incluindo:
 - Casos de teste

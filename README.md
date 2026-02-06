@@ -1,21 +1,34 @@
-# Calculadora Simples
+# Projetos Pessoais
 
-Projeto pessoal de estudo contendo uma calculadora básica desenvolvida por mim.
-O foco do projeto é praticar lógica de programação e organização de código,
-além de validar o funcionamento das operações.
+Repositório criado para reunir meus projetos pessoais de estudo e prática em tecnologia.
+Aqui adiciono aplicações simples, experimentos e, futuramente, projetos voltados à área de QA e automação de testes.
 
-## Funcionalidades
+---
+
+## 📁 Projetos
+
+### 🔢 Calculadora Simples
+Aplicação web básica desenvolvida com HTML, CSS e JavaScript.
+
+**Funcionalidades:**
 - Soma
 - Subtração
 - Multiplicação
 - Divisão
 
-## Organização
-O projeto contém o código da calculadora e anotações básicas de validação
-para garantir que as operações funcionem corretamente.
+📂 Local: `frontend/calculadora`  
+🛠️ Tecnologias: HTML, CSS, JavaScript
 
-## Objetivo
-Projeto criado para aprendizado, prática e evolução técnica.
+---
 
-## Autor
+## 🚧 Em desenvolvimento
+Novos projetos serão adicionados conforme minha evolução nos estudos, incluindo:
+- Casos de teste
+- BDD
+- Automação de testes
+- Outras aplicações front-end
+
+---
+
+## 👤 Autor
 Igor Matvicio

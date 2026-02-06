@@ -19,7 +19,7 @@ Aplicação web básica desenvolvida com HTML, CSS e JavaScript..
 
 ---
 
-## 🧪 Projeto de Testes de API – ServeRest
+🧪 [Casos de Teste – API](./test-cases)
 
 Este projeto tem como objetivo demonstrar conhecimentos em **testes manuais de API**, utilizando o **Postman** para validação dos endpoints da API pública ServeRest.
 

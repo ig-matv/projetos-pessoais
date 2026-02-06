@@ -10,6 +10,7 @@ Aqui adiciono aplicações simples, experimentos e, futuramente, projetos voltad
 ## Projetos
 
 🔢 [Calculadora Simples](Calculadora)
+[HTML](index.html)[CSS](style.css)[JAVASCRIPT](script.js)
 
 Aplicação web básica desenvolvida com HTML, CSS e JavaScript..
 

@@ -7,17 +7,17 @@ Aqui adiciono aplicações simples, experimentos e, futuramente, projetos voltad
 
 ## 📁 Projetos
 
-### 🔢 Calculadora Simples
-Aplicação web básica desenvolvida com HTML, CSS e JavaScript.
+## Projetos
+
+🔢 [Calculadora Simples](frontend/calculadora)
+
+Aplicação web básica desenvolvida com HTML, CSS e JavaScript..
 
 **Funcionalidades:**
 - Soma
 - Subtração
 - Multiplicação
 - Divisão
-
-📂 Local: `frontend/calculadora`  
-🛠️ Tecnologias: HTML, CSS, JavaScript
 
 ---
 

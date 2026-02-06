@@ -33,6 +33,7 @@ Igor Matvicio
 
 ## 🌐 Onde me encontrar
 
-💼[LinkedIn](https://www.linkedin.com/in/igor-matvicio-5739263a9)
-🐙[GitHub](https://github.com/ig-matv) 
+- 💼 LinkedIn: https://linkedin.com/in/igor-matvicio-5739263a9
+- 🐙 GitHub: https://github.com/ig-matv
+
 

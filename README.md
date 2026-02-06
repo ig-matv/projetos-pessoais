@@ -51,7 +51,7 @@ Aplicação web básica desenvolvida com HTML, CSS e JavaScript..
     
 ## 🚧 Em desenvolvimento
 Novos projetos serão adicionados conforme minha evolução nos estudos, incluindo:
-- Casos de teste
+
 - BDD
 - Automação de testes
 - Outras aplicações front-end

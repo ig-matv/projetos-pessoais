@@ -9,7 +9,7 @@ Aqui adiciono aplicações simples, experimentos e, futuramente, projetos voltad
 
 ## Projetos
 
-🔢 [Calculadora Simples]()
+🔢 [Calculadora Simples](Calculadora)
 
 Aplicação web básica desenvolvida com HTML, CSS e JavaScript..
 

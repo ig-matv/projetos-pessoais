@@ -38,9 +38,6 @@ Aplicação web básica desenvolvida com HTML, CSS e JavaScript..
 - Multiplicação
 - Divisão
 
-### 📁 Estrutura relacionada
-- 🔗 [Casos de teste – Usuários (CRUD)](./test-cases/usuarios.md)
-  
 ## 🚧 Em desenvolvimento
 Novos projetos serão adicionados conforme minha evolução nos estudos, incluindo:
 - Casos de teste

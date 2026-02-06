@@ -7,18 +7,6 @@ Aqui adiciono aplicações simples, experimentos e, futuramente, projetos voltad
 
 ## 📁 Projetos
 
-🔢 [Calculadora Simples](Calculadora)
-
-Aplicação web básica desenvolvida com HTML, CSS e JavaScript..
-
-**Funcionalidades:**
-- Soma
-- Subtração
-- Multiplicação
-- Divisão
-
----
-
 🧪 [Casos de Teste – API](./test-cases)
 
 Este projeto tem como objetivo demonstrar conhecimentos em **testes manuais de API**, utilizando o **Postman** para validação dos endpoints da API pública ServeRest.
@@ -34,6 +22,21 @@ Este projeto tem como objetivo demonstrar conhecimentos em **testes manuais de A
   - Consulta (GET)
   - Atualização (PUT)
   - Remoção (DELETE)
+
+### 📁 Estrutura relacionada
+- 🔗 [Casos de teste – Usuários (CRUD)](./test-cases/usuarios.md)
+
+---
+
+🔢 [Calculadora Simples](Calculadora)
+
+Aplicação web básica desenvolvida com HTML, CSS e JavaScript..
+
+**Funcionalidades:**
+- Soma
+- Subtração
+- Multiplicação
+- Divisão
 
 ### 📁 Estrutura relacionada
 - 🔗 [Casos de teste – Usuários (CRUD)](./test-cases/usuarios.md)

@@ -38,6 +38,17 @@ Aplicação web básica desenvolvida com HTML, CSS e JavaScript..
 - Multiplicação
 - Divisão
 
+  ### 📁 Estrutura relacionada
+  
+- 📄 [index.html](./Calculadora/index.html)  
+    Estrutura da calculadora (HTML)
+
+  - 📄 [script.js](./Calculadora/script.js)  
+    Lógica e funcionalidades (JavaScript)
+
+  - 🎨 [style.css](./Calculadora/style.css)  
+    Estilização da interface (CSS)
+    
 ## 🚧 Em desenvolvimento
 Novos projetos serão adicionados conforme minha evolução nos estudos, incluindo:
 - Casos de teste

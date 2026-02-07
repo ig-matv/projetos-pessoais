@@ -15,11 +15,14 @@ O site funciona como um hub pessoal de links, permitindo acesso rápido às rede
 ## 🚀 Tecnologias utilizadas
 
 HTML5
-CSS3
-JavaScript
-GitHub (versionamento de código)
-Vercel (deploy e hospedagem)
 
+CSS3
+
+JavaScript
+
+GitHub (versionamento de código)
+
+Vercel (deploy e hospedagem)
 ---
 
 ## 🧩 Funcionalidades

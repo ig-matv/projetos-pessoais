@@ -31,7 +31,7 @@ Vercel (deploy e hospedagem)
 ✅ Página de links centralizados  
 ✅ Layout responsivo  
 ✅ Interface simples e organizada  
-✅ Barra superior com perfil  
+✅ Barra superior com link para aba dos meus links pessoais
 ✅ Efeitos visuais com CSS (hover / brilho)
 
 ---

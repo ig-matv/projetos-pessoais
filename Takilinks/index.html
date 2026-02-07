@@ -1,38 +1,67 @@
 <!DOCTYPE html>
-<html lang="pt-BR">
+<html lang="pt-br">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My links</title>
+    <title>Takilinks</title>
+
     <link rel="stylesheet" href="style.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+    
 </head>
 <body>
-    <div class="top-bar">
-    <img src="https://i.pinimg.com/736x/ed/84/45/ed84457c1c0fe4eba292e686be1d3fe4.jpg" class="profile-pic">
-    <span class = "profile-name">Taki Links</span>
+    <div class="topbar">
+    <div class="logo">TakiLinks</div>
+    <button onclick="mostrarPessoal()">Links Pessoais</button>
 </div>
-    <div class = "container">
-        <h1> My Links </h1>
-        <p> My social networks & projects</p>
+<div class="container" id="profissional">
+    <h2>Links Profissionais</h2>
+    <p class="descricao">
+  Estes são meus links profissionais com projetos, estudos em QA e 
+                    formas de contato.
+</p>
 
-        <a href="https://github.com/ig-matv" class = "link-btn" target="_blank">
-            <i class="fa-brands fa-github"></i>
-            GitHub
+    <div class="links">
+        <a href="https://github.com/ig-matv" target="_blank" ><i class="fa-brands fa-github"></i>
+            Github
         </a>
-        <a href="https://x.com/YaraTakii" class = "link-btn" target="_blank">
-            <i class="fa-brands fa-x-twitter"></i>
-            Twitter
+        <a href="https://github.com/ig-matv/projetos-pessoais" target="_blank" ><i class="fa-brands fa-github"></i>
+             Projetos
         </a>
-        <a href="https://www.linkedin.com/in/igor-matvicio-5739263a9/" class = "link-btn" target="_blank">
-           <i class="fa-brands fa-linkedin"></i>
+        <a href="https://www.linkedin.com/in/igor-matvicio-5739263a9/" target="_blank" ><i class="fa-brands fa-linkedin"></i>
             LinkedIn
         </a>
-        <a href="https://osu.ppy.sh/users/31165088" class="link-btn" target="_blank">
-            <i class="fa-solid fa-gamepad"></i>
-            Profile Osu
-        </a>
+
+        <div class="sobre">
+    <h3>Sobre mim</h3>
+    <P>
+        Estou em início de carreira na área de Quality Assurance (QA), com foco em testes manuais e validação de APIs. Tenho estudado boas práticas de teste, criação de casos de teste e análise de requisitos, buscando sempre garantir a qualidade e a melhor experiência para o usuário. Estou em constante aprendizado e evolução na área de tecnologia.
+    </P>
+</div>
+
     </div>
-    <script src="script.js"></script>
+</div>
+
+<div class="container" id="pessoal">
+    <h2>Links Pessoais</h2>
+    <p class="descricao">
+  Um pouco sobre mim fora do trabalho, meus interesses, 
+  hobbies e coisas que eu curto no dia a dia
+</p>
+    <div class="links">
+        <a href="https://x.com/YaraTakii" target="_blank" ><i class="fa-brands fa-x-twitter"></i>
+            X / Twitter
+        </a>
+        <a href="https://www.instagram.com/ytaki00/" target="_blank" ><i class="fa-brands fa-instagram"></i>
+            Instagram
+        </a>
+        <a href="https://osu.ppy.sh/users/31165088" target="_blank" ><i class="fa-solid fa-gamepad"></i>
+            Osu profile
+        </a>
+
+    </div>
+    <button onclick="mostrarProfissional()">⬅ Voltar</button>
+</div>
+<script src="script.js"></script>
 </body>
 </html>

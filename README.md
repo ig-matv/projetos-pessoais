@@ -38,7 +38,7 @@ Durante o desenvolvimento, busquei aplicar organização de código, clareza vis
 
 📌 Este projeto faz parte do meu processo de evolução profissional e prática técnica.
 
-👉 Para ver a documentação completa, detalhes técnicos, explicações do funcionamento e anotações do projeto, acesse o **README.md** do repositório.  
+👉 Para ver a documentação completa, detalhes técnicos, explicações do funcionamento e anotações do projeto, acesse o [README.md] do repositório.  
 Optei por deixar todas as informações detalhadas lá para manter a visualização principal do portfólio mais limpa e objetiva.
 
 ---

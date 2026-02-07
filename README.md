@@ -42,27 +42,6 @@ Durante o desenvolvimento, busquei aplicar organização de código, clareza vis
 Optei por deixar todas as informações detalhadas lá para manter a visualização principal do portfólio mais limpa e objetiva.
 
 ---
-
-🔢 [Calculadora Simples](Calculadora)
-
-Aplicação web básica desenvolvida com HTML, CSS e JavaScript..
-
-**Funcionalidades:**
-- Soma
-- Subtração
-- Multiplicação
-- Divisão
-
- ### 📁 Estrutura relacionada
-
-- 🌐 [HTML](./Calculadora/index.html)  
-  Estrutura da calculadora
-
-- 🧠 [JavaScript](./Calculadora/script.js)  
-  Lógica e funcionalidades
-
-- 🎨 [CSS](./Calculadora/style.css)  
-  Estilização da interface
     
 ## 🚧 Em desenvolvimento
 Novos projetos serão adicionados conforme minha evolução nos estudos, incluindo:

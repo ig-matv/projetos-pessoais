@@ -32,7 +32,6 @@ Vercel (deploy e hospedagem)
 ✅ Layout responsivo  
 ✅ Interface simples e organizada  
 ✅ Barra superior com um botao que leva para aba dos meus links pessoais
-
 ✅ Efeitos visuais com CSS (hover / brilho)
 
 ---

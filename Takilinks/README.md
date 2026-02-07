@@ -49,7 +49,8 @@ Vercel (deploy e hospedagem)
 ## 🌐 Acesso ao projeto
 
 🔗 **Site publicado:**  
-👉 [Takilinks](https://takilinks.vercel.app/)  
+
+👉  https://takilinks.vercel.app/
 
 ---
 

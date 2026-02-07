@@ -44,7 +44,7 @@ O site funciona como um hub pessoal de links, permitindo acesso rápido às rede
 ## 🌐 Acesso ao projeto
 
 🔗 **Site publicado:**  
-👉 https://takilinks.vercel.app/  
+👉 [Takilinks](https://takilinks.vercel.app/)  
 
 ---
 

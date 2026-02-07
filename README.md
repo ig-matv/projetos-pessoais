@@ -27,6 +27,21 @@ Este projeto tem como objetivo demonstrar conhecimentos em **testes manuais de A
 - 🔗 [Casos de teste – Usuários (CRUD)](./test-cases/usuarios.md)
 
 ---
+## 🌐 Taki Links
+
+Sobre o Projeto
+
+Este site foi desenvolvido como parte da minha jornada de aprendizado na área de **Qualidade de Software (QA)** e desenvolvimento web.  
+O projeto foi construído utilizando **HTML, CSS e JavaScript**, com foco em entender melhor a estrutura de aplicações front-end e como elas podem ser testadas na prática.
+
+Durante o desenvolvimento, busquei aplicar organização de código, clareza visual e lógica de funcionamento, pensando também em como um QA analisaria a aplicação — validando comportamentos, interface e possíveis cenários de uso.
+
+📌 Este projeto faz parte do meu processo de evolução profissional e prática técnica.
+
+👉 Para ver a documentação completa, detalhes técnicos, explicações do funcionamento e anotações do projeto, acesse o **README.md** do repositório.  
+Optei por deixar todas as informações detalhadas lá para manter a visualização principal do portfólio mais limpa e objetiva.
+
+---
 
 🔢 [Calculadora Simples](Calculadora)
 

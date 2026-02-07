@@ -29,9 +29,13 @@ Vercel (deploy e hospedagem)
 ## 🧩 Funcionalidades
 
 ✅ Página de links centralizados  
+
 ✅ Layout responsivo  
+
 ✅ Interface simples e organizada  
+
 ✅ Barra superior com um botao que leva para aba dos meus links pessoais
+
 ✅ Efeitos visuais com CSS (hover / brilho)
 
 ---

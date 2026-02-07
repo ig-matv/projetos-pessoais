@@ -23,6 +23,7 @@ JavaScript
 GitHub (versionamento de código)
 
 Vercel (deploy e hospedagem)
+
 ---
 
 ## 🧩 Funcionalidades
